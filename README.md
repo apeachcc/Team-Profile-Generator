@@ -32,3 +32,4 @@ node index.js
 
 ## Output
 
+In output folder
